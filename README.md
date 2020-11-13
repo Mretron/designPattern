@@ -42,9 +42,9 @@ UML(Unified *统一* Modeling *建模* Language 语言)：一种可视化的标�
 
 #### 类与类图
 
-![](/Users/cengzhongjie/Desktop/准备吃饭笔记/设计模式/图片/001_1.png)
+![](https://raw.githubusercontent.com/Mretron/designPattern/main/picture/001_1.png)
 
-![](/Users/cengzhongjie/Desktop/准备吃饭笔记/设计模式/图片/001_0.png)
+![](https://raw.githubusercontent.com/Mretron/designPattern/main/picture/001_0.png)
 
 #### 类之间的关系
 
@@ -58,15 +58,15 @@ UML(Unified *统一* Modeling *建模* Language 语言)：一种可视化的标�
 
    - 双向关联
 
-     ![](/Users/cengzhongjie/Desktop/准备吃饭笔记/设计模式/图片/001_双向关联.png)
+     ![](https://raw.githubusercontent.com/Mretron/designPattern/main/picture/001_双向关联.png)
 
    - 单向关联
 
-     ![](/Users/cengzhongjie/Desktop/准备吃饭笔记/设计模式/图片/001_单向关联.png)
+     ![](https://raw.githubusercontent.com/Mretron/designPattern/main/picture/001_单向关联.png)
 
    - 自关联
 
-     ![](/Users/cengzhongjie/Desktop/准备吃饭笔记/设计模式/图片/001_自关联.png)
+     ![](https://raw.githubusercontent.com/Mretron/designPattern/main/picture/001_自关联.png)
 
    - 多重性关联
 
@@ -76,27 +76,27 @@ UML(Unified *统一* Modeling *建模* Language 语言)：一种可视化的标�
      - 0..1 : 表示**没有或1个**与该类对象有关系
      - m..n : 表示**最少m，最多n个**与该类对象有关系
 
-     ![](/Users/cengzhongjie/Desktop/准备吃饭笔记/设计模式/图片/001_多重性关联.png)
+     ![](https://raw.githubusercontent.com/Mretron/designPattern/main/picture/001_多重性关联.png)
 
    - 聚合关系：类之间整体和部分的关系，成员对象可以脱离整体**<u>*独立存在*</u>**。
 
-     ![](/Users/cengzhongjie/Desktop/准备吃饭笔记/设计模式/图片/001_聚合关系.png)
+     ![](https://raw.githubusercontent.com/Mretron/designPattern/main/picture/001_聚合关系.png)
 
    - **组合关系**:**<u>*也表示类之间整体和部分的关系，组合的部分和整体具有统一的生存期。如人和嘴巴的关系，同存亡。*</u>**
 
-     ![](/Users/cengzhongjie/Desktop/准备吃饭笔记/设计模式/图片/001_组合关系.png)
+     ![](https://raw.githubusercontent.com/Mretron/designPattern/main/picture/001_组合关系.png)
 
 2. 依赖关系：表示一个事物使用另一个事物时使用依赖关系，***基本上就是方法需要传递另一个对象***
 
-   ![](/Users/cengzhongjie/Desktop/准备吃饭笔记/设计模式/图片/001_依赖关系.png)
+   ![](https://raw.githubusercontent.com/Mretron/designPattern/main/picture/001_依赖关系.png)
 
 3. 泛化关系：表示继承关系
 
-   ![](/Users/cengzhongjie/Desktop/准备吃饭笔记/设计模式/图片/001_泛化关系.png)
+   ![](https://raw.githubusercontent.com/Mretron/designPattern/main/picture/001_泛化关系.png)
 
 4. 接口与实现关系：类实现了接口
 
-   ![](/Users/cengzhongjie/Desktop/准备吃饭笔记/设计模式/图片/001_接口与实现关系.png)
+   ![](https://raw.githubusercontent.com/Mretron/designPattern/main/picture/001_接口与实现关系.png)
 
 
 
@@ -104,7 +104,7 @@ UML(Unified *统一* Modeling *建模* Language 语言)：一种可视化的标�
 
 看示例图就够了， 注意不同的箭头代表不同的意思，之后看源码正确使用即可。
 
-![](/Users/cengzhongjie/Desktop/准备吃饭笔记/设计模式/图片/001_顺序图.png)
+![](https://raw.githubusercontent.com/Mretron/designPattern/main/picture/001_顺序图.png)
 
 ### 状态图
 
@@ -112,7 +112,7 @@ UML(Unified *统一* Modeling *建模* Language 语言)：一种可视化的标�
 
 **<u>*状态模块还可以嵌套状态图，这种被称为复合状态。*</u>**
 
-![](/Users/cengzhongjie/Desktop/准备吃饭笔记/设计模式/图片/001_状态图.png)
+![](https://raw.githubusercontent.com/Mretron/designPattern/main/picture/001_状态图.png)
 
 
 

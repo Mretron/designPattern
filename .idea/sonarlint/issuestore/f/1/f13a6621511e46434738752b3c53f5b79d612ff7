@@ -1,0 +1,13 @@
+
+m
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8È¦´ÁÛ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èÿçÓıÿÿÿÿ
+C
+java:S1172"&Remove these unused method parameters.(©ƒ¦…8›¬¸ÁÛ.
+[
+java:S3400"9Remove this method and declare a constant for this value.(Ö§”Óşÿÿÿÿ8›¬¸ÁÛ.
+_
+java:S2094"BRemove this empty class, write its code or make it an "interface".(§ëÀØ8º˜ºÁÛ.
+K
+java:S1068
+")Remove this unused "email" private field.(ª«Õìùÿÿÿÿ8ğãÌÀÛ.
